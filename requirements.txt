@@ -1,0 +1,8 @@
+Scrapy
+numpy
+pandas
+jupyter-black
+jupyterlab
+tqdm
+seaborn
+matplotlib
